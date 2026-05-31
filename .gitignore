@@ -4,3 +4,7 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# 旧版 HTML 文件（保留但不追踪）
+*-简洁版.html
+*.wechat.html
